@@ -1,7 +1,7 @@
 # Project
 # Projet : Prix de l'immobilier a Dakar
 
-# ---------------------------           OBJECTIF         --------------------->
+# ---------------------------     OBJECTIF    ------------------->
 
 L'objectif est de développer un modèle prédictif pour estimer le prix au mètre carré des logements à Dakar en fonction :
 
@@ -12,19 +12,19 @@ L'objectif est de développer un modèle prédictif pour estimer le prix au mèt
 - du contexte économique(taux d'interet)
 
 
-# ----------------------------            EQUIPE          --------------------------->
+# ----------------------------       EQUIPE     ------------------->
 
----------------------------------------------------------------------------------------------->
-        NOM                     |        Role            |     Tache a faire
--------------------------------------------------------------------------------------------------- 
-Dieynaba SOW                    |      Data Engineer     | Collecte et nettoyage des donnees
----------------------------------------------------------------------------------------------------
-Mbacké THIOUB                   | Data scientist         | Préparation et modelisation predictive
----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------->
+|        NOM                   |        Role            |     Tache a faire
+-------------------------------------------------------------------------------------- 
+|  Dieynaba SOW                |      Data Engineer     | Collecte et nettoyage des donnees
+---------------------------------------------------------------------------------------
+|  Mbacké THIOUB               | Data scientist         | Préparation et modelisation predictive
+---------------------------------------------------------------------------------------
 
-# ---------------------            ETAPES           --------------------->
+# <---------------------       ETAPES     --------------------->
 
-# -----------------     Exploration :     --------------
+# <-----------------     Exploration :     --------------
 
 - Collecte des donnees via Datastream (Dataset fictif)
 
@@ -32,7 +32,7 @@ Mbacké THIOUB                   | Data scientist         | Préparation et mode
 
 - Analyses exploratives(EDA) : Correlation Prix/surface
 
-# -----------------    Modelisation :     -------------------------------
+# <-----------------    Modelisation :     ----------------------->
 
 - Entraiement de modeles
 
@@ -46,11 +46,11 @@ Mbacké THIOUB                   | Data scientist         | Préparation et mode
 
   --> R au carre (Correspondant au coefficient de determination : le R au carre mesure a quel point le modele explique la variablite d>
 
-# -----------------    Deploiement :      --------------------------------
+# -----------------    Deploiement :   ------------------------->
 
 - Dashboard interactif avec Shiny
 
-# -----------------------     RESULTATS ATTENDUS     ------------------->
+# -----------------------   RESULTATS ATTENDUS  ------------------->
 
 # ----------------- Performance du modele ------------------------
 
@@ -66,7 +66,7 @@ Lien vers la page GitHub Pages :
 ----------------------------------Impact-------------------------------------->
 
 
----------------------------MODIFICATION EQUIPE--------------------------------
+---------------------------MODIFICATION EQUIPE SUR fiche-A--------------------------------
 # Interversion des roles
 ---------------------------------------------------------------------------------------------->
         NOM                     |        Role            |     Tache a faire
