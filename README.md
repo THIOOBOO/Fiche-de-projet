@@ -15,6 +15,7 @@ L'objectif est de développer un modèle prédictif pour estimer le prix au mèt
 # ----------------------------       EQUIPE     ------------------->
 
 ------------------------------------------------------------------------------------->
+
 |        NOM                   |        Role            |     Tache a faire
 -------------------------------------------------------------------------------------- 
 |  Dieynaba SOW                |      Data Engineer     | Collecte et nettoyage des donnees
@@ -69,6 +70,7 @@ Lien vers la page GitHub Pages :
 ---------------------------MODIFICATION EQUIPE SUR fiche-A--------------------------------
 # Interversion des roles
 ---------------------------------------------------------------------------------------------->
+
         NOM                     |        Role            |     Tache a faire
 -------------------------------------------------------------------------------------------------- 
   Mbacké THIOUB                 |     Data scientist     | Préparation et modelisation predictive
